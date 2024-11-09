@@ -1,4 +1,4 @@
-#include "a4_birthdayBST.hpp"
+#include "birthdayBST.hpp"
 
 
 
@@ -24,7 +24,6 @@ int main(){
     cout<< "+++++++++++++++++++++++++++++++++++++++++++++++"<<endl;
     cout<< "+++++++++++Famous Birthday Look Up System++++++"<<endl;
     cout<< "++++++++++++++++++++Andrew Gu++++++++++++++++++"<<endl;
-    cout<< "++++++++++++++++++++301569350++++++++++++++++++"<<endl;
     cout<< "+++++++++++++++++andrew_gu@sfu.ca++++++++++++++"<<endl;
     cout<< "+++++++++++++++++++++++++++++++++++++++++++++++"<<endl;
     while(number != 6){

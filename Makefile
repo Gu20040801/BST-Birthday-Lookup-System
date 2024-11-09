@@ -1,7 +1,7 @@
 all: test1
 
-test1: a4_birthdayLookupSystem.cpp a4_birthdaylib.cpp a4_birthdayBST.cpp
-	g++ -Wall -std=c++11 -o test1 a4_birthdayLookupSystem.cpp a4_birthdaylib.cpp a4_birthdayBST.cpp
+test1: birthdayLookupSystem.cpp birthdaylib.cpp birthdayBST.cpp
+	g++ -Wall -std=c++11 -o test1 birthdayLookupSystem.cpp birthdaylib.cpp birthdayBST.cpp
 
 clean:
 	rm -f test1

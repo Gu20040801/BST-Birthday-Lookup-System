@@ -1,4 +1,4 @@
-#include "a4_birthdayBST.hpp"
+#include "birthdayBST.hpp"
 
 BirthdayBSTreeNode* BirthdayBST::insertNode_rec(BirthdayBSTreeNode* node, Birthday* value){
     if(root == nullptr){

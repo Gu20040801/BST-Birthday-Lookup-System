@@ -1,5 +1,5 @@
-#ifndef A4_BIRTHDAYLIB_HPP
-#define A4_BIRTHDAYLIB_HPP
+#ifndef BIRTHDAYLIB_HPP
+#define BIRTHDAYLIB_HPP
 
 #include <string>
 using namespace std;

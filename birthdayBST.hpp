@@ -1,7 +1,7 @@
 #ifndef A4_BIRTHDAYBST_HPP
 #define A4_BIRTHDAYBST_HPP
 
-#include "a4_birthdaylib.hpp"
+#include "birthdaylib.hpp"
 #include <fstream>
 #include <string>
 #include <iostream>
